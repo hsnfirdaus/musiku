@@ -2,9 +2,11 @@
 
 Player musik sederhana dengan menggunakan fitur IndexedDB dari Browser. Dibuat dengan ReactJS, Vite dan TailwindCSS.
 
-Demo: (https://musiku.hasanfirdaus.my.id)[https://musiku.hasanfirdaus.my.id]
+Demo: [https://musiku.hasanfirdaus.my.id](https://musiku.hasanfirdaus.my.id)
 
 ![Screenshot tampilan.](screenshot.png)
+
+Judul lagu, penyanyi dan foto cover dideteksi dengan menggunakan `jsmediatags`.
 
 ## Menjalankan Program
 
