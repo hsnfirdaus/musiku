@@ -2,7 +2,7 @@
 
 Player musik sederhana dengan menggunakan fitur IndexedDB dari Browser. Dibuat dengan ReactJS, Vite dan TailwindCSS.
 
-Demo: [https://musiku.hasanfirdaus.my.id](https://musiku.hasanfirdaus.my.id)
+Demo: [https://musiku.hasanfirdaus.my.id](https://musiku.hasanfirdaus.com)
 
 ![Screenshot tampilan.](screenshot.png)
 
